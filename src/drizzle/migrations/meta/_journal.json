@@ -15,6 +15,13 @@
       "when": 1717902429778,
       "tag": "0001_tense_stick",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1717944763985,
+      "tag": "0002_zippy_bulldozer",
+      "breakpoints": true
     }
   ]
 }
